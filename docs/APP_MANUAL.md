@@ -4,7 +4,7 @@
 
 The app to insert/filter/display the data is a python script located at [personal_data.py](../apps/personal_data.py).
 
-You'll need Python 3.7 set up to run the app.
+You'll need Python 3.7 or higher to run the app.
 
 The script supports several [commands](../apps/personal_data/commands):
 * `insert` - insert a single entry to a dataset (and create a dataset if it does not exist)
