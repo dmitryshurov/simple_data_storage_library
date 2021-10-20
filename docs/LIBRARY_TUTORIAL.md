@@ -135,7 +135,7 @@ All tests in a project are written using a standard Python unittest library.
 To run the tests from the command line type the following:
 ```shell script
 cd src    # This is not required if `src` in in your PYTHONPATH
-python -m unittest discover -s ../tests
+python3 -m unittest discover -s ../tests
 ```
 
 ## Extending the library
